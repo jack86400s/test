@@ -1,0 +1,17 @@
+{
+    "CommonRulesShared": {
+        "InGameCurrency": "Pelin valuuttana on %{configuredValue}.",
+        "CashWallet": "\"Käteislompakko\" esittää pelattavissa olevan käteissaldon.",
+        "WinShownInCash": "Kaikki voitot näytetään käteisenä.",
+        "BackAction": "Napauta poistuaksesi pelistä ja palataksesi edelliselle sivulle.",
+        "GameLobbyAction": "Näpäytä poistuaksesi pelistä ja siirtyäksesi PG-peliaulaan.",
+        "GameHistoryDescription": "Näyttää edellisten pelien tiedot. Vieritä alareunaan ladataksesi lisää kirjauksia.",
+        "GameHistoryActionWithIcon": "Napauta<img src='ic_nav_calender'/>-kuvaketta valitaksesi historiassa näytettävät pelipäivät.",
+        "ReturnToPlayerDescription": "Tämän pelin teoreettinen palautusprosentti pelaajalle (RTP) on %{rtpValue}. RTP kuvaa pitkän aikavälin teoreettista palautusta.",
+        "AdditionInfoMalfunctionDescription": "Toimintahäiriö mitätöi kaikki voitonmaksut ja pelit.",
+        "AdditionInfoInactiveGameSessions": "Peli palaa automaattisesti alkutilaansa oltuaan käyttämättömänä: %{dayCount} päivää. Keräilypelien, keskeneräisten ilmaispelien ja toimintopelien yms. edistymistä ja tilaa ei enää pidetä tallennettuna.",
+        "AdditionInfoInactiveGameSessionsHour": "Peli palaa automaattisesti alkutilaansa oltuaan käyttämättömänä: %{hourCount} tuntia. Keräilypelien, keskeneräisten ilmaispelien ja toimintopelien yms. edistymistä ja tilaa ei enää pidetä tallennettuna.",
+        "AdditionInfoDisputeHistoryDescription": "Mikäli pelituloksista syntyy kiistatilanteita, kaikki pelihistoria-sivulla näkyvät pelitulokset ovat ehdottomia ja lopullisia.",
+        "AdditionInfoInactiveGameSessionsAlternate": "Kesken jääneitä pelejä voidaan jatkaa seuraavan peli-istunnon aikana."
+    }
+}

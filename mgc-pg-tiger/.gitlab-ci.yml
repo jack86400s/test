@@ -1,0 +1,21 @@
+stages:
+  - deploy_h5
+
+variables:
+  APP_GROUP: "pg"
+  APP_ID: "126"
+
+include:
+  - project: 'jobs/gitlab-ymls'
+    ref: main
+    file: '/ac_pg/deploy_h5_test.yml'
+  - project: 'jobs/gitlab-ymls'
+    ref: main
+    file: '/ac_pg/deploy_h5_ap1.yml'
+  - project: 'jobs/gitlab-ymls'
+    ref: main
+    file: '/ac_pg/deploy_h5_sa1.yml'
+
+# 项目发布Tag规则
+# test-h5-数字 发布到测试环境
+# ap1-h5-数字 发布到ap1环境（正式）

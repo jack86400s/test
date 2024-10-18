@@ -1,0 +1,16 @@
+{
+    "CommonRulesShared": {
+        "InGameCurrency": "게임에서 사용하는 통화 %{configuredValue}.",
+        "CashWallet": "“현금 전자지갑”은 베팅에 사용 가능한 현금을 표시합니다.",
+        "WinShownInCash": "모든 승리를 현금으로 표시합니다.",
+        "BackAction": "탭하여 게임에서 나가서 이전 페이지로 되돌아 갑니다.",
+        "GameLobbyAction": "탭하여 게임에서 나가고 PG 게임 로비로 갑니다",
+        "GameHistoryDescription": "이전에 플레이한 게임의 세부 정보를 표시합니다. 아래로 끝까지 스크롤하여 더 많은 기록을 로드합니다.",
+        "GameHistoryActionWithIcon": "<img src='ic_nav_calender'/>을(를) 탭하여 기록에 표시할 게임의 날짜를 표시합니다. ",
+        "ReturnToPlayerDescription": "이 게임의 이론적인 플레이어 환수율(RTP)은 %{rtpValue}입니다. 이 RTP는 장시간의 이론적 게임 지급액을 나타납니다. ",
+        "AdditionInfoMalfunctionDescription": "오작동은 모든 지급과 플레이를 무효로 만듭니다.",
+        "AdditionInfoInactiveGameSessions": "게임이 %{dayCount}일 동안 유휴 상태인 경우 자동으로 초기 상태로 돌아갑니다. 모큰 컬렉션 게임, 완료되지 않은 무료 게임 및 완료되지 않은 유료 게임 등의 진행 상황 및 상태를 더 이상 유지하지 않습니다.",
+        "AdditionInfoInactiveGameSessionsHour": "게임이 %{hourCount}시간 동안 유휴 상태인 경우 자동으로 초기 상태로 돌아갑니다. 모큰 컬렉션 게임, 완료되지 않은 무료 게임 및 완료되지 않은 유료 게임 등의 진행 상황 및 상태를 더 이상 유지하지 않습니다.",
+        "AdditionInfoDisputeHistoryDescription": "게임 결과에 대한 논쟁이 있는 경우, 게임 기록 페이지에 표시되는 모든 게임 결과가 절대적이고 최종적인 것으로 판정됩니다."
+    }
+}

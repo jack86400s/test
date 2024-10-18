@@ -1,0 +1,17 @@
+{
+    "CommonRulesShared": {
+        "InGameCurrency": "Spelets valuta är %{configuredValue}.",
+        "CashWallet": "\"Kontantplånbok\" visar pengar som finns tillgängliga för satsning.",
+        "WinShownInCash": "Alla vinster visas i kontanter.",
+        "BackAction": "Tryck för att lämna spelet och gå tillbaka till föregående sida.",
+        "GameLobbyAction": "Tryck för att lämna spelet och gå till PG:s spellobby.",
+        "GameHistoryDescription": "Visar detaljer om tidigare spelade spel. Bläddra ned till slutet för att läsa in fler poster.",
+        "GameHistoryActionWithIcon": "Tryck på<img src='ic_nav_calender'/>för att välja datumen för spelen som ska visas i historiken.",
+        "ReturnToPlayerDescription": "Total teoretisk utdelning till spelare (RTP) för detta spel är %{rtpValue}. Denna RTP representerar spelets långsiktiga teoretiska utbetalning.",
+        "AdditionInfoMalfunctionDescription": "Tekniska fel förklarar alla spel och vinster ogiltiga.",
+        "AdditionInfoInactiveGameSessions": "Spelet kommer automatiskt att återgå till sitt ursprungliga läge efter att ha varit i viloläge i: %{dayCount} dagar. Framsteg och status kommer inte längre att sparas. Detta gäller alla insamlingsspel, oavslutade gratisspel och oavslutade funktionsspel etc. ",
+        "AdditionInfoInactiveGameSessionsHour": "Spelet kommer automatiskt att återgå till sitt ursprungliga läge efter att ha varit i viloläge i: %{hourCount} timmar. Framsteg och status kommer inte längre att sparas. Detta gäller alla insamlingsspel, oavslutade gratisspel och oavslutade funktionsspel etc. ",
+        "AdditionInfoDisputeHistoryDescription": "I händelse av tvister om spelresultat är alla spelresultat som visas på spelhistoriksidan absoluta och slutgiltiga.",
+        "AdditionInfoInactiveGameSessionsAlternate": "Ofullständiga spel kan återupptas i nästa spelsession."
+    }
+}

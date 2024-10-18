@@ -1,0 +1,16 @@
+{
+    "CommonRulesShared": {
+        "InGameCurrency": "De valuta in het spel is %{configuredValue}.",
+        "CashWallet": "'Geldportemonnee' toont het geld dat beschikbaar is om in te zetten.",
+        "WinShownInCash": "Alle winsten worden in geldwaarden getoond.",
+        "BackAction": "Tik om het spel te verlaten en terug te gaan naar de vorige pagina.",
+        "GameLobbyAction": "Tik om het spel te verlaten en naar de PG-spellobby te gaan.",
+        "GameHistoryDescription": "Toont details van de voorgaande gespeelde spellen. Scroll helemaal omlaag om meer records te laden.",
+        "GameHistoryActionWithIcon": "Tik op <img src='ic_nav_calender'/> om de data te selecteren van de spellen die via Geschiedenis moeten worden getoond.",
+        "ReturnToPlayerDescription": "Het theoretische uitbetalingspercentage (RTP) voor dit spel is %{rtpValue}. Deze RTP staat voor de theoretische uitbetaling van het spel op de lange termijn. ",
+        "AdditionInfoMalfunctionDescription": "Bij een storing komen alle spelrondes en uitbetalingen te vervallen.",
+        "AdditionInfoInactiveGameSessions": "Het spel gaat automatisch terug naar zijn initiële staat nadat er gedurende %{dayCount} dagen niet is gespeeld. De progressie en status van verzamelspellen, onvoltooide gratis rondes of onvoltooide functierondes, enz. worden niet opgeslagen.",
+        "AdditionInfoInactiveGameSessionsHour": "Het spel gaat automatisch terug naar zijn initiële staat nadat er gedurende %{hourCount} uur niet is gespeeld. De progressie en status van verzamelspellen, onvoltooide gratis rondes of onvoltooide functierondes, enz. worden niet opgeslagen.",
+        "AdditionInfoDisputeHistoryDescription": "Bij geschillen over spelresultaten zijn alle spelresultaten op de pagina spelgeschiedenis absoluut en definitief."
+    }
+}

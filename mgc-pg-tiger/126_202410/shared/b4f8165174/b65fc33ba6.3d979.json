@@ -1,0 +1,16 @@
+{
+    "CommonRulesShared": {
+        "InGameCurrency": "ゲーム内通貨：%{configuredValue}。",
+        "CashWallet": "[キャッシュウォレット] は賭け金に利用可能なキャッシュを表示します。",
+        "WinShownInCash": "すべての賞金がキャッシュで示されます。",
+        "BackAction": "タップしてゲームを終了し、前のページに戻ります。",
+        "GameLobbyAction": "タップしてゲームを終了しPGゲームロビーに移動します。",
+        "GameHistoryDescription": "今までにプレイしたゲームの詳細を表示します。より多くの記録をロードするには、一番下までスクロールします。",
+        "GameHistoryActionWithIcon": "<img src='ic_nav_calender'/>をタップして履歴で表示するゲームの日付を選択。",
+        "ReturnToPlayerDescription": "このゲームの理論上のプレイヤーへの還元率 (RTP) は%{rtpValue}です。このRTPは長期間の論理的なゲームのペイアウトを表します。",
+        "AdditionInfoMalfunctionDescription": "誤動作が発生すると、すべての払い戻しとプレイが無効になります。",
+        "AdditionInfoInactiveGameSessions": "ゲームは次の一定時間アイドル状態になると自動的に初期状態に戻ります : %{dayCount} 日。ゲームのシンボルコレクション、終了していないフリーゲーム、終了していないフィーチャーゲームなどの進行状況は保持されなくなります。",
+        "AdditionInfoInactiveGameSessionsHour": "ゲームは次の一定時間アイドル状態になると自動的に初期状態に戻ります : %{hourCount} 時間。ゲームのシンボルコレクション、終了していないフリーゲーム、終了していないフィーチャーゲームなどの進行状況は保持されなくなります。",
+        "AdditionInfoDisputeHistoryDescription": "ゲーム結果に異議が生じた場合には、ゲーム履歴ページに表示されているすべてのゲーム結果が、絶対で最終的なものとなります。"
+    }
+}

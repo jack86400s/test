@@ -1,0 +1,16 @@
+{
+    "CommonRulesShared": {
+        "InGameCurrency": "Valutaen i spillet er %{configuredValue}.",
+        "CashWallet": "\"Kontant wallet\" viser de tilgængelige kontanter.",
+        "WinShownInCash": "Alle gevinster vises i kontanter.",
+        "BackAction": "Tryk for at forlade spillet og gå tilbage til forrige side.",
+        "GameLobbyAction": "Tryk for at forlade spillet og gå til PG spil-lobby.",
+        "GameHistoryDescription": "Viser oplysninger om tidligere spillede spil. Scrol ned til bunden for at indlæse flere oplysninger.",
+        "GameHistoryActionWithIcon": "Tap på <img src='ic_nav_calender'/> for at vælge de spildatoer, der skal vises i Historik.",
+        "ReturnToPlayerDescription": "Den teoretiske tilbagebetaling til spiller (RTP) for dette spil er %{rtpValue}. Denne RTP repræsenterer den langsigtede teoretiske udbetaling i spillet. ",
+        "AdditionInfoMalfunctionDescription": "Fejl annullerer alle udbetalinger og spil.",
+        "AdditionInfoInactiveGameSessions": "Spillet vender automatiske tilbage til starttilstand, når det ikke har været brugt i: %{dayCount} dage. Fremgang og status på alle indsamlingsspil, uafsluttede gratis spins,  uafsluttede funktionsspil osv. bevares ikke.",
+        "AdditionInfoInactiveGameSessionsHour": "Spillet vender automatiske tilbage til starttilstand, når det ikke har været brugt i: %{hourCount} timer. Fremgang og status på alle indsamlingsspil, uafsluttede gratis spins,  uafsluttede funktionsspil osv. bevares ikke.",
+        "AdditionInfoDisputeHistoryDescription": "I tilfælde af uenighed om spilresultater er alle spilresultater, som vises på spilhistoriksiden, fuldstændige og endegyldige."
+    }
+}

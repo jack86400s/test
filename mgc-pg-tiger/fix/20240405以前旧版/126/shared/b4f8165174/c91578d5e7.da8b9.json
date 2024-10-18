@@ -1,0 +1,16 @@
+{
+    "CommonRulesShared": {
+        "InGameCurrency": "La devise utilisée dans le jeu est %{configuredValue}.",
+        "CashWallet": "\"Porte-monnaie en argent\" affiche le montant en argent disponible pour jouer.",
+        "WinShownInCash": "Tous les gains sont affichés en argent.",
+        "BackAction": "Appuyez pour quitter le jeu et revenir à la page précédente.",
+        "GameLobbyAction": "Touchez pour quitter le jeu et accéder au lobby du jeu PG.",
+        "GameHistoryDescription": "Affiche le détail des parties jouées précédemment. Faites défiler jusqu'en bas pour charger plus d'enregistrements.",
+        "GameHistoryActionWithIcon": "Appuyez sur<img src='ic_nav_calender'/>pour sélectionner les dates des parties à afficher dans l'historique.",
+        "ReturnToPlayerDescription": "Le rendement théorique au joueur (RTP) pour ce jeu est de %{rtpValue}. Ce RTP représente le paiement du jeu théorique à long terme.",
+        "AdditionInfoMalfunctionDescription": "Une mauvaise utilisation ou un dysfonctionnement annulent toutes les actions et tous les paiements.",
+        "AdditionInfoInactiveGameSessions": "Le jeu se réinitialisera automatiquement après une période d'inactivité de : %{dayCount} jours. La progression et le statut ne seront plus sauvegardés pour tous les jeux de collecte, les jeux gratuits non terminés, les fonctions de jeu non terminées, etc.",
+        "AdditionInfoInactiveGameSessionsHour": "Le jeu se réinitialisera automatiquement après une période d'inactivité de : %{hourCount} heures. La progression et le statut ne seront plus sauvegardés pour tous les jeux de collecte, les jeux gratuits non terminés, les fonctions de jeu non terminées, etc.",
+        "AdditionInfoDisputeHistoryDescription": "En cas de litige sur les résultats des jeux, tous les résultats des jeux qui figurent sur la page d'historique des jeux sont absolus et définitifs."
+    }
+}

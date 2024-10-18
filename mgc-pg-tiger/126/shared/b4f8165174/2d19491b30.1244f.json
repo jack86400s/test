@@ -1,0 +1,17 @@
+{
+    "CommonRulesShared": {
+        "InGameCurrency": "A játék pénzneme %{configuredValue}.",
+        "CashWallet": "A \"Készpénzes pénztárca\" megjeleníti a tétekhez rendelkezésre álló készpénzt.",
+        "WinShownInCash": "Minden nyeremény készpénzben jelenik meg.",
+        "BackAction": "Koppints a játékból való kilépéshez és az előző oldalra való visszatéréshez.",
+        "GameLobbyAction": "Koppints a gombra a játékból való kilépéshez és a PG Game Lobby megnyitásához.",
+        "GameHistoryDescription": "Megjeleníti az előző lejátszott játékok részleteit. Görgess le a végéig további feljegyzések betöltéséhez.",
+        "GameHistoryActionWithIcon": "Koppints a<img src='ic_nav_calender'/>lehetőségre az előzményekben megjelenítendő játékok dátumainak kiválasztásához.",
+        "ReturnToPlayerDescription": "A játék elméleti megtérülési értéke a játékos számára (RTP) %{rtpValue}. Ez az RTP-érték a hosszú távú elméleti játékkifizetést jelenti.",
+        "AdditionInfoMalfunctionDescription": "Meghibásodás esetén minden kifizetés és játék érvénytelen.",
+        "AdditionInfoInactiveGameSessions": "A játék %{dayCount} napig tartó tétlenség után automatikusan visszatér a kezdeti állapotába. A gyűjteményjátékok, a befejezetlen ingyenes játékok és a befejezetlen játékfunkciók stb. előrehaladása és állapota ezen idő után nem marad meg.",
+        "AdditionInfoInactiveGameSessionsHour": "A játék %{hourCount} óráig tartó tétlenség után automatikusan visszatér a kezdeti állapotába. A gyűjteményjátékok, a befejezetlen ingyenes játékok és a befejezetlen játékfunkciók stb. előrehaladása és állapota ezen idő után nem marad meg.",
+        "AdditionInfoDisputeHistoryDescription": "A játékeredményekkel kapcsolatos viták esetén a játékelőzmények oldalon megjelenő összes játékeredmény visszavonhatatlan és végleges.",
+        "AdditionInfoInactiveGameSessionsAlternate": "A befejezetlen játékok a következő játékmenet során folytathatók."
+    }
+}

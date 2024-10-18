@@ -1,0 +1,16 @@
+{
+    "CommonRulesShared": {
+        "InGameCurrency": "Waluta gry to %{configuredValue}.",
+        "CashWallet": "Pole „Portfel gotówkowy” wyświetla środki dostępne w portfelu gotówkowym.",
+        "WinShownInCash": "Wszystkie wygrane są wyświetlane w gotówce.",
+        "BackAction": "Stuknij, aby opuścić grę i wrócić do poprzedniej strony.",
+        "GameLobbyAction": "Stuknij, aby opuścić grę i przejść do holu gier PG.",
+        "GameHistoryDescription": "Wyświetla szczegóły rozegranych uprzednio gier. Aby załadować więcej pozycji, przewiń do końca.",
+        "GameHistoryActionWithIcon": "Stuknij<img src='ic_nav_calender'/>, aby wybrać daty gier do wyświetlenia w historii.",
+        "ReturnToPlayerDescription": "Teoretyczny zwrot dla gracza (RTP) w tej grze wynosi %{rtpValue}. Podany współczynnik RTP jest oparty na grze długoterminowej.",
+        "AdditionInfoMalfunctionDescription": "Awaria anuluje wszystkie wypłaty i rozgrywki.",
+        "AdditionInfoInactiveGameSessions": "Gra powróci do stanu początkowego po bezczynności trwającej: %{dayCount} dni. Postęp i status gier zbierania, niedokończonych gier darmowych i niedokończonych gier bonusowych nie zostanie zachowany.",
+        "AdditionInfoInactiveGameSessionsHour": "Gra powróci do stanu początkowego po bezczynności trwającej: %{hourCount} godz.. Postęp i status gier zbierania, niedokończonych gier darmowych i niedokończonych gier bonusowych nie zostanie zachowany.",
+        "AdditionInfoDisputeHistoryDescription": "W przypadku sporów dotyczących wyników gry wszystkie dane na ten temat przedstawione na stronie historii gry są ostateczne i nie mogą zostać zmienione."
+    }
+}

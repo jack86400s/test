@@ -1,0 +1,17 @@
+{
+    "CommonRulesShared": {
+        "InGameCurrency": "العملة داخل اللعبة هي %{configuredValue}.",
+        "CashWallet": "تعرض \"محفظة المبالغ النقدية\" المبالغ النقدية المتاحة للرهان.",
+        "WinShownInCash": "تُعرّض جميع الأرباح نقدًا.",
+        "BackAction": "انقر لمغادرة اللعبة والرجوع إلى الصفحة السابقة.",
+        "GameLobbyAction": "انقر لمغادرة اللعبة والانتقال إلى مركز لاعبي لعبة PG.",
+        "GameHistoryDescription": "يظهر تفاصيل الألعاب السابقة. أنزل لنهاية الصفحة لتحميل المزيد من السجلات.",
+        "GameHistoryActionWithIcon": "انقر فوق<img src='ic_nav_calender'/>لتحديد تواريخ الألعاب التي ستُعرَض في السجل.",
+        "ReturnToPlayerDescription": "العائد إلى اللاعب النظري (RTP) لهذه اللعبة يبلغ %{rtpValue}.",
+        "AdditionInfoMalfunctionDescription": "عطل يُبطِل جميع عمليات الدفع واللعب.",
+        "AdditionInfoInactiveGameSessions": "ستعود اللعبة تلقائيًا إلى حالتها الأولية بعد خمولها لمدة %{dayCount} يوم. لكن سيُفقَد أي تقدم وحالة أي ألعاب جمع وألعاب مجانية غير مكتملة وألعاب مميزة غير مكتملة وما إلى ذلك.",
+        "AdditionInfoInactiveGameSessionsHour": "ستعود اللعبة تلقائيًا إلى حالتها الأولية بعد خمولها لمدة %{hourCount} ساعة. لكن سيُفقَد أي تقدم وحالة أي ألعاب ججمع وألعاب مجانية غير مكتملة وألعاب مميزة غير مكتملة وما إلى ذلك.",
+        "AdditionInfoDisputeHistoryDescription": "في حالة وجود نزاعات حول نتائج اللعبة، تكون جميع نتائج اللعبة المعروضة في صفحة سجل اللعبة مطلقة ونهائية.",
+        "AdditionInfoInactiveGameSessionsAlternate": "يمكن استئناف الألعاب غير المكتملة في الجلسة اللعبة التالية."
+    }
+}

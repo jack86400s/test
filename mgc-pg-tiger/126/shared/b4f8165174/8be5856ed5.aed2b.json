@@ -1,0 +1,17 @@
+{
+    "CommonRulesShared": {
+        "InGameCurrency": "Valutaen i spillet er %{configuredValue}.",
+        "CashWallet": "\"Saldo\" viser pengene tilgjengelig for spilling.",
+        "WinShownInCash": "Alle gevinster vises i pengebeløp.",
+        "BackAction": "Trykk for å forlate spillet og gå tilbake til forrige side.",
+        "GameLobbyAction": "Trykk for å forlate spillet og gå til PG-spillobby",
+        "GameHistoryDescription": "Viser informasjonen for tidligere spilte runder. Rull ned til slutten for å laste inn flere opplysninger.",
+        "GameHistoryActionWithIcon": "Trykk påe <img src='ic_nav_calender'/> for å velge datoene i spillet som skal vises i historikken.",
+        "ReturnToPlayerDescription": "Den teoretiske returen til spilleren (RTP) i dette spillet er %{rtpValue}. RTPen viser spillets langsiktige, teoretiske utbetaling. ",
+        "AdditionInfoMalfunctionDescription": "Systemfeil annullerer alle gevinster og spill.",
+        "AdditionInfoInactiveGameSessions": "Spillet går automatisk tilbake til sin opprinnelige status etter å ha vært inaktivt i : %{dayCount} dager. Fremdriften og statusen til spill med innsamling, uferdige gratisspill, uferdige funksjonsspill osv, vil ikke lenger beholdes.",
+        "AdditionInfoInactiveGameSessionsHour": "Spillet går automatisk tilbake til sin opprinnelige status etter å ha vært inaktivt i : %{hourCount} timer. Fremdriften og statusen til spill med innsamling, uferdige gratisspill, uferdige funksjonsspill osv, vil ikke lenger beholdes.",
+        "AdditionInfoDisputeHistoryDescription": "Alle spillresultatene som vises på spillhistorikksiden er absolutte og endelige, i tilfelle spillresultatene skulle bestrides.",
+        "AdditionInfoInactiveGameSessionsAlternate": "Ufullførte spill kan gjenopptas i neste spilløkt."
+    }
+}

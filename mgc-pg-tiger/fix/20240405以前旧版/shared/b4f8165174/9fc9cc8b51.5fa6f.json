@@ -1,0 +1,16 @@
+{
+    "CommonRulesShared": {
+        "InGameCurrency": "Die Spielwährung ist %{configuredValue}.",
+        "CashWallet": "„Cash-Wallet“ zeigt das Cash an, das zum Einsatz zur Verfügung steht.",
+        "WinShownInCash": "Alle Gewinne werden in Cash angezeigt.",
+        "BackAction": "Tippen Sie, um das Spiel zu verlassen und zurück zur vorherigen Seite zu gelangen.",
+        "GameLobbyAction": "Tippen Sie, um das Spiel zu verlassen und zur PG-Spiel-Lobby zu gelangen.",
+        "GameHistoryDescription": "Zeigt Details zu vorherigen Spielen an. Scrollen Sie nach ganz unten, um weitere Aufzeichnungen zu laden.",
+        "GameHistoryActionWithIcon": "Tippen Sie auf <img src='ic_nav_calender'/>, um die Spieldaten auszuwählen, die im Verlauf angezeigt werden sollen.",
+        "ReturnToPlayerDescription": "Die theoretische Ausschüttungsquote (RTP) für dieses Spiel beträgt %{rtpValue}. Die RTP stellt die langfristige, theoretische Spielauszahlung dar. ",
+        "AdditionInfoMalfunctionDescription": "Bei einer Fehlfunktion werden alle Auszahlungen und Spiele ungültig.",
+        "AdditionInfoInactiveGameSessions": "Das Spiel kehrt automatisch in seinen Ursprungsstatus zurück, wenn es %{dayCount} Tage lang nicht gespielt wird. Erzielte Fortschritte und der aus ihnen resultierende aktuelle Status in einem Sammelspiel sowie nicht genutzte Freispiele, nicht genutzte Feature-Spiele usw. sind nicht mehr länger verfügbar.",
+        "AdditionInfoInactiveGameSessionsHour": "Das Spiel kehrt automatisch in seinen Ursprungsstatus zurück, wenn es %{hourCount} Stunden lang nicht gespielt wird. Erzielte Fortschritte und der aus ihnen resultierende aktuelle Status in einem Sammelspiel sowie nicht genutzte Freispiele, nicht genutzte Feature-Spiele usw. sind nicht mehr länger verfügbar.",
+        "AdditionInfoDisputeHistoryDescription": "Im Falle von Unstimmigkeiten über Spielergebnisse sind alle Spielergebnisse, die auf der Spielverlaufsseite angezeigt werden, valide und endgültig."
+    }
+}

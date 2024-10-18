@@ -1,0 +1,16 @@
+{
+    "CommonRulesShared": {
+        "InGameCurrency": "Moneda din joc este %{configuredValue}.",
+        "CashWallet": "Opțiunea „Portofel cu bani” afișează suma disponibilă pentru plasarea mizei.",
+        "WinShownInCash": "Toate câștigurile sunt afișate în bani.",
+        "BackAction": "Apăsați ca să ieșiți din joc și să mergeți la pagina anterioară.",
+        "GameLobbyAction": "Apăsați pentru a ieși din joc și pentru a accesa Lobby-ul jocului PG.",
+        "GameHistoryDescription": "Afișează detaliile referitoare la jocurile jucate anterior. Derulați până la final pentru a încărca mai multe date.",
+        "GameHistoryActionWithIcon": "Apăsați pe <img src='ic_nav_calender'/> pentru a selecta datele jocurilor care vor fi afișate în Istoric.",
+        "ReturnToPlayerDescription": "Câștigul teoretic al jucătorului (RTP) pentru acest joc este de %{rtpValue}. Acest RTP reprezintă plata teoretică pe termen lung pentru acest joc. ",
+        "AdditionInfoMalfunctionDescription": "Defecțiunile anulează toate plățile și jocurile.",
+        "AdditionInfoInactiveGameSessions": "Jocul va reveni automat la starea inițială după o perioadă de inactivitate de: %{dayCount} zile. Progresul și starea jocurilor cu colectare, ale jocurilor gratuite neterminate și ale jocurilor de secvență neterminate etc. nu vor mai fi păstrate.",
+        "AdditionInfoInactiveGameSessionsHour": "Jocul va reveni automat la starea inițială după o perioadă de inactivitate de: %{hourCount} ore. Progresul și starea jocurilor cu colectare, ale jocurilor gratuite neterminate și ale jocurilor de secvență neterminate etc. nu vor mai fi păstrate.",
+        "AdditionInfoDisputeHistoryDescription": "În cazul unor dispute cu privire la rezultatele jocului, toate rezultatele jocului care sunt afișate pe pagina cu istoricul jocului sunt absolute și finale."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "CommonRulesShared": {
+        "InGameCurrency": "Oyun içi para birimi: %{configuredValue}",
+        "CashWallet": "\"Nakit Cüzdanı\", bahis koymak için kullanabileceğiniz bakiyeyi gösterir.",
+        "WinShownInCash": "Tüm kazançlar nakit olarak gösterilir.",
+        "BackAction": "Oyundan ayrılıp önceki sayfaya dönmek için dokunun.",
+        "GameLobbyAction": "Oyundan çıkmak ve PG Oyun Lobisine gitmek için dokun.",
+        "GameHistoryDescription": "Oynanan önceki oyunların ayrıntılarını gösterir. Daha fazla kayıt yüklemek için en alt kısma kadar inin.",
+        "GameHistoryActionWithIcon": "Geçmişte gösterilecek oyun tarihlerini seçmek için<img src='ic_nav_calender'/>simgesine dokun.",
+        "ReturnToPlayerDescription": "Bu oyunun teorik oyuncu kazancı (RTP) %{rtpValue}'dir. Bu RTP, uzun vadedeki oyun kazancını temsil eder.",
+        "AdditionInfoMalfunctionDescription": "Arıza halinde, oyunlar ve ödemeler geçersiz olur.",
+        "AdditionInfoInactiveGameSessions": "Oyuna %{dayCount} gün boyunca müdahale edilmediğinde otomatik olarak başlangıç durumuna döner. Tüm toplama oyunlarının, tamamlanmamış ücretsiz oyunların ve tamamlanmamış mini oyunların ilerlemesi ve durumu bu sürenin ardından saklanmaz.",
+        "AdditionInfoInactiveGameSessionsHour": "Oyuna %{hourCount} saat boyunca müdahale edilmediğinde otomatik olarak başlangıç durumuna döner. Tüm toplama oyunlarının, tamamlanmamış ücretsiz oyunların ve tamamlanmamış mini oyunların ilerlemesi ve durumu bu sürenin ardından saklanmaz.",
+        "AdditionInfoDisputeHistoryDescription": "Oyun sonuçları konusundaki anlaşmazlıklar halinde, oyun geçmişi sayfasında gösterilen tüm oyun sonuçları nihaidir."
+    }
+}

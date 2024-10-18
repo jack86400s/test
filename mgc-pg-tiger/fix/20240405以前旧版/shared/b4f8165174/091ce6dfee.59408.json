@@ -1,0 +1,16 @@
+{
+    "CommonRulesShared": {
+        "InGameCurrency": "Loại tiền tệ trong trò chơi là %{configuredValue}.",
+        "CashWallet": "\"Ví tiền mặt\" hiển thị số tiền khả dụng để đặt cược.",
+        "WinShownInCash": "Tất cả tiền thắng cược được hiển thị bằng tiền mặt.",
+        "BackAction": "Chạm để thoát trò chơi và trở lại trang trước.",
+        "GameLobbyAction": "Chạm để rời ván chơi và đi đến Sảnh Chơi PG.",
+        "GameHistoryDescription": "Hiển thị thông tin các ván chơi đã từng chơi trước đó. Cuộn xuống cuối để tải thêm dữ liệu.",
+        "GameHistoryActionWithIcon": "Chạm vào<img src='ic_nav_calender'/> để chọn ngày của các ván chơi hiển thị trong Lịch sử.",
+        "ReturnToPlayerDescription": "Mức lợi nhuận trả lại cho người chơi trên lý thuyết (RTP) của trò chơi này là %{rtpValue}. Mức RTP này đại diện cho mức trả thưởng trò chơi trên lý thuyết về lâu dài. ",
+        "AdditionInfoMalfunctionDescription": "Sự cố lỗi chức năng khiến mọi cuộc chơi và thanh toán trở nên vô hiệu.",
+        "AdditionInfoInactiveGameSessions": "Trò chơi sẽ tự động trở lại trạng thái ban đầu của nó sau khi ngừng hoạt động trong: %{dayCount} ngày. Tiến trình và trạng thái của bất kỳ trò chơi bộ sưu tập, vòng chơi miễn phí chưa hoàn tất, và vòng chơi tính năng chưa hoàn tất sẽ không được duy trì.",
+        "AdditionInfoInactiveGameSessionsHour": "Trò chơi sẽ tự động trở lại trạng thái ban đầu của nó sau khi ngừng hoạt động trong: %{hourCount} giờ. Tiến trình và trạng thái của bất kỳ trò chơi bộ sưu tập, vòng chơi miễn phí chưa hoàn tất, và vòng chơi tính năng chưa hoàn tất sẽ không được duy trì.",
+        "AdditionInfoDisputeHistoryDescription": "Trong trường hợp tranh chấp về kết quả trò chơi, tất cả kết quả trò chơi được hiển thị trên trang lịch sử trò chơi là tuyệt đối và cuối cùng."
+    }
+}

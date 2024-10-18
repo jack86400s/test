@@ -1,0 +1,16 @@
+{
+    "CommonRulesShared": {
+        "InGameCurrency": "La valuta del gioco è %{configuredValue}.",
+        "CashWallet": "Il \"Portafoglio in Denaro\" mostra il denaro a disposizione per puntare.",
+        "WinShownInCash": "Tutte le vincite sono mostrate in denaro.",
+        "BackAction": "Premi per lasciare la partita e tornare alla pagina precedente.",
+        "GameLobbyAction": "Premi per lasciare la partita e accedere alla Lobby di Gioco PG.",
+        "GameHistoryDescription": "Mostra i dettagli delle partite giocate precedentemente. Scorri verso il basso per caricare più risultati.",
+        "GameHistoryActionWithIcon": "Premi <img src='ic_nav_calender'/> per selezionare la data delle partite da mostrare nella Cronologia.",
+        "ReturnToPlayerDescription": "Il ritorno teorico al giocatore (RTP) di questo gioco è pari al %{rtpValue}. Questo RTP indica il pagamento teorico a lungo termine del gioco.",
+        "AdditionInfoMalfunctionDescription": "I malfunzionamenti annullano tutte le puntate e le vincite.",
+        "AdditionInfoInactiveGameSessions": "Il gioco tornerà automaticamente allo stato iniziale dopo essere rimasto inattivo per: %{dayCount} giorni. L'avanzamento e lo stato di tutti i giochi con raccolta di simboli, delle partite gratis e delle partite speciali incomplete non verranno salvati.",
+        "AdditionInfoInactiveGameSessionsHour": "Il gioco tornerà automaticamente allo stato iniziale dopo essere rimasto inattivo per: %{hourCount} ore. L'avanzamento e lo stato di tutti i giochi con raccolta di simboli, delle partite gratis e delle partite speciali incomplete non verranno salvati.",
+        "AdditionInfoDisputeHistoryDescription": "In caso di controversie sui risultati del gioco, tutti i risultati mostrati nella pagina della cronologia di gioco sono assoluti e definitivi."
+    }
+}

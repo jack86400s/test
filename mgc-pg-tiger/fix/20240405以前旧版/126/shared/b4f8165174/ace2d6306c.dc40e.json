@@ -1,0 +1,16 @@
+{
+    "CommonRulesShared": {
+        "InGameCurrency": "Mata uang yang digunakan dalam permainan adalah %{configuredValue}.",
+        "CashWallet": "\"Dompet Uang Tunai\" menampilkan jumlah uang tunai yang tersedia untuk taruhan.",
+        "WinShownInCash": "Semua hasil menang ditampilkan dalam nilai uang tunai.",
+        "BackAction": "Ketuk untuk keluar dari permainan dan kembali ke laman sebelumnya.",
+        "GameLobbyAction": "Ketuk untuk keluar dari permainan dan ke Lobby Permainan PG.",
+        "GameHistoryDescription": "Menunjukkan rincian permainan yang dimainkan sebelumnya. Gulir sampai ke bawah untuk memuat lebih banyak catatan.",
+        "GameHistoryActionWithIcon": "Ketuk<img src='ic_nav_calender'/>untuk memilih tanggal permainan yang ingin ditampilkan dalam Riwayat.",
+        "ReturnToPlayerDescription": "Keuntungan pemain (RTP) secara teoritis untuk permainan ini adalah %{rtpValue}. RTP ini mewakili bayaran permainan teoritis dalam jangka panjang.",
+        "AdditionInfoMalfunctionDescription": "Kegagalan fungsi menghanguskan semua bayaran dan permainan.",
+        "AdditionInfoInactiveGameSessions": "Permainan akan secara otomatis kembali ke status awal jika tidak ada aktifitas selama: %{dayCount} hari. Kemajuan dan status permainan dengan fitur kumpulkan apapun, permainan gratis yang tidak terselesaikan, fitur permainan yang tidak terselesaikan dll tidak akan lagi dipertahankan.",
+        "AdditionInfoInactiveGameSessionsHour": "Permainan akan secara otomatis kembali ke status awal jika tidak ada aktifitas selama: %{hourCount} jam. Kemajuan dan status permainan dengan fitur kumpulkan apapun, permainan gratis yang tidak terselesaikan, fitur permainan yang tidak terselesaikan dll tidak akan lagi dipertahankan.",
+        "AdditionInfoDisputeHistoryDescription": "Apabila terjadi perselisihan atas hasil permainan, semua hasil permainan yang ditampilkan di halaman riwayat permainan bersifat mutlak dan final."
+    }
+}
