@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head>
+    <script>
+/*if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.getRegistrations().then(registrations => {
+    registrations.forEach(registration => {
+      registration.unregister().then(success => {
+        if (success) {
+          console.log('ServiceWorker unregistered successfully:', registration.scope);
+        } else {
+          console.log('ServiceWorker unregister failed:', registration.scope);
+        }
+      });
+    });
+  }).catch(error => {
+    console.log('Error getting ServiceWorker registrations:', error);
+  });
+}*/
+/*if ('serviceWorker' in navigator) {
+	window.addEventListener('load', () => {
+		navigator.serviceWorker.register('/mgc-pg-tiger/126/sw.js').then(registration => {
+			console.log('Service Worker registered with scope:', registration.scope);
+		}).catch(error => {
+			console.log('Service Worker registration failed:', error);
+		});
+	});
+}*/
+        function register() {
+            navigator.serviceWorker.register('sw.js?v=6').then(function (serviceWorker) {});
+        }
+
+        // window._fetch = window.fetch;
+        // window.fetch = function(url, options) {
+        //     console.log('fetch:', url)
+        //     var ret = window._fetch(url, newOptions);
+        //     return ret;
+        // };
+
+
+    </script>
+</head>
+<body onload="register()"><h1>Servicework Test5</h1>
+<image src='1.jpg'></image>
+<script src="http://localhost/api/toolbar.js" type="text/javascript"></script>
+</body>
+</html>
